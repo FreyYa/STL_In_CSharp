@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // 어셈블리에 대한 일반 정보는 다음 특성 집합을 통해 
 // 제어됩니다. 어셈블리와 관련된 정보를 수정하려면
 // 이러한 특성 값을 변경하세요.
-[assembly: AssemblyTitle("STL_Csharp")]
+[assembly: AssemblyTitle("STL Converter")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("STL_Csharp")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyCompany("FreyYa.Tistory.com")]
+[assembly: AssemblyProduct("STL Converter")]
+[assembly: AssemblyCopyright("Copyright ©  2016 FreyYa")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
